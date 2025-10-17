@@ -3,7 +3,7 @@
 
 🎯 **Aspiring IT Professional | Programmer | Problem Solver**
 
-I’m a dynamic and determined individual pursuing a **BSc in Computer Science** at *City, St George’s University of London* and currently completing a **Level 3 Extended Diploma in Information Technology**. I’m passionate about programming, customer service, and simplifying complex technical problems.  
+I’m a dynamic and determined individual pursuing a **BSc in Computer Science** at *City, St George’s University of London*. I’m passionate about programming, customer service, and simplifying complex technical problems.  
 
 I enjoy learning new technologies, collaborating with diverse teams, and contributing to meaningful digital projects that drive positive change.  
 
